@@ -33,6 +33,14 @@ A nREPL server will be started which can be connected to on port 7000 (configure
 Once running, the web site's root URL should be browsable at http://localhost:8080/ (again, the port can be configured
 via the aforementioned `config.edn`).
 
+## Other Templates!
+
+I have a few other "simple" Leiningen project templates that are along the same vein as this one:
+
+* [Simple Clojure App](https://github.com/gered/simple-app-template) - Very simple starter base for non-web projects.
+* [Simple Clojure Web Service](https://github.com/gered/simple-web-service-template) - For web services to be consumed by other apps.
+* [Simple Clojure / ClojureScript Web App](https://github.com/gered/simple-web-app-template) - For web apps using Clojure and ClojureScript.
+
 ## License
 
 Copyright © 2022 Gered King
